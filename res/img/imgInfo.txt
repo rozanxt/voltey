@@ -1,0 +1,54 @@
+
+o obj/leftbot_idle.png
+o obj/leftbot_idle_mask.png
+o obj/leftbot_idle_rmask.png
+o obj/leftbot_idle_gmask.png
+o obj/leftbot_idle_bmask.png
+o obj/leftbot_idle_cmask.png
+o obj/leftbot_idle_mmask.png
+o obj/leftbot_idle_ymask.png
+s obj/leftbot_move.png 12
+s obj/leftbot_move_mask.png 12
+s obj/leftbot_move_rmask.png 12
+s obj/leftbot_move_gmask.png 12
+s obj/leftbot_move_bmask.png 12
+s obj/leftbot_move_cmask.png 12
+s obj/leftbot_move_mmask.png 12
+s obj/leftbot_move_ymask.png 12
+
+o obj/rightbot_idle.png
+o obj/rightbot_idle_mask.png
+o obj/rightbot_idle_rmask.png
+o obj/rightbot_idle_gmask.png
+o obj/rightbot_idle_bmask.png
+o obj/rightbot_idle_cmask.png
+o obj/rightbot_idle_mmask.png
+o obj/rightbot_idle_ymask.png
+s obj/rightbot_move.png 12
+s obj/rightbot_move_mask.png 12
+s obj/rightbot_move_rmask.png 12
+s obj/rightbot_move_gmask.png 12
+s obj/rightbot_move_bmask.png 12
+s obj/rightbot_move_cmask.png 12
+s obj/rightbot_move_mmask.png 12
+s obj/rightbot_move_ymask.png 12
+
+o obj/greenbot_idle.png
+o obj/redbot_idle.png
+o obj/volteyball.png
+o obj/pole.png
+
+o bg/volteytitleblue.png
+o bg/futurefield.png
+
+o misc/shadow.png
+o gui/gaugebar.png
+
+s obj/greenbot_move.png 12
+s obj/redbot_move.png 12
+
+s misc/ballmarker.png 2
+
+s gui/selbutton.png 2
+s gui/selcolor.png 2
+s gui/pausebtn.png 2
