@@ -46,7 +46,6 @@ public class GameWorld extends WorldFrame {
 	private BallMarker bmark;
 	private Shadow objShadow[];
 	
-	private int gameMode;
 	private boolean gamePaused;
 	private int gameWinner;
 	
@@ -138,8 +137,6 @@ public class GameWorld extends WorldFrame {
 		sGUI[2].setBackGUI(-1);
 		
 		scrGUI = null;
-		
-		gameMode = gms;
 	}
 	public void initWorld() {
 		initMatch();
